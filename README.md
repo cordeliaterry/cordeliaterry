@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cordeliaterry
-- 👀 I’m interested in ... learning code and IT basics
-- 🌱 I’m currently learning ... Python and IT Basics
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m finiding myself completely fascinated but the world of technology. Ultimately, I'd love to explore a career in cybersecurity. 
+- 🌱 I’m currently learning ... Python, HTML, Java, CSS, UX Design and IT Basics
+- 💞️ I’m looking to collaborate on ... projects utilizing any of the above langauges
 - 📫 How to reach me ... cordelia.terry@yahoo.com
 
 <!---
